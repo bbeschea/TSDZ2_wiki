@@ -1,1 +1,1 @@
-Please see the wiki here: https://github.com/OpenSource-EBike-firmware/TSDZ2_wiki/wiki
+Please see the wiki here: https://github.com/bbeschea/TSDZ2_wiki/wiki
